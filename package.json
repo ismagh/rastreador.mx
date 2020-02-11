@@ -1,0 +1,21 @@
+{
+    "name": "rastreator-frontend-challenge-2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "rastreador": "nodemon src/"
+    },
+    "keywords": [],
+    "author": "Ismael Josafat García Hernández",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^2.7.4",
+        "express": "^4.16.4",
+        "morgan": "^1.9.1"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.4",
+        "webpack-dev-server": "^3.10.3"
+    }
+}
